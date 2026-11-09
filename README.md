@@ -1,5 +1,4 @@
 # PixelHertz
-# PixelHertz
 
 Multimodal deepfake detection for images, video, and audio.
 
